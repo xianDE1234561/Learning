@@ -1,0 +1,82 @@
+{
+  "version": "2026-10-25",
+  "courses": [
+    {
+      "id": "cs231n-2025",
+      "title": "CS231N 2025 计算机视觉深度学习",
+      "source_url": "https://www.bilibili.com/video/BV1RLp76vEZu",
+      "parts": 18,
+      "pages": 613,
+      "file": "CS231N-2025-final.pdf",
+      "bytes": 213105775,
+      "sha256": "282aa3a0569d3cdfe8a0c734527277ac716fb7dad1793771084534745ee5fa45",
+      "download_url": "https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/CS231N-2025-final.pdf"
+    },
+    {
+      "id": "mit-6s191-2026",
+      "title": "MIT 6.S191 2026 深度学习导论",
+      "source_url": "https://www.bilibili.com/video/BV1pPap6DE4m",
+      "parts": 9,
+      "pages": 492,
+      "file": "MIT-6S191-2026-final.pdf",
+      "bytes": 127613188,
+      "sha256": "993889e6eecbe1c2b53b75c2fdc7ce98776de50f5826d9274ef7db114aa15c7b",
+      "download_url": "https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/MIT-6S191-2026-final.pdf"
+    },
+    {
+      "id": "mit-6006-2011",
+      "title": "MIT 6.006 Fall 2011 算法导论",
+      "source_url": "https://www.bilibili.com/video/BV15UJf6VEsc",
+      "parts": 47,
+      "pages": 235,
+      "file": "MIT-6006-2011-final.pdf",
+      "bytes": 3404361,
+      "sha256": "ef08564112188c6d96b2290585e0c5c2476ce27874c1b1dee3994f9a93445387",
+      "download_url": "https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/MIT-6006-2011-final.pdf"
+    },
+    {
+      "id": "critical-thinking",
+      "title": "批判性思维大师课",
+      "source_url": "https://www.bilibili.com/video/BV1uvuzzNEqz",
+      "parts": 59,
+      "pages": 259,
+      "file": "Critical-Thinking-final.pdf",
+      "bytes": 34581654,
+      "sha256": "358d1e1a8baa3fabe5dbc88f3c63d00bc0f83ecfb4fc57404b8778178fdad436",
+      "download_url": "https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/Critical-Thinking-final.pdf"
+    },
+    {
+      "id": "crash-course-philosophy",
+      "title": "Crash Course 哲学",
+      "source_url": "https://www.bilibili.com/video/BV1gWJQ67EpE",
+      "parts": 47,
+      "pages": 259,
+      "file": "Crash-Course-Philosophy-final.pdf",
+      "bytes": 26738453,
+      "sha256": "8e044d4aa000b6fc59a55507a51a3aaee5eebf012dedf897548a89212def1c37",
+      "download_url": "https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/Crash-Course-Philosophy-final.pdf"
+    },
+    {
+      "id": "game-theory-101",
+      "title": "William Spaniel Game Theory 101 博弈论",
+      "source_url": "https://www.bilibili.com/video/BV1vkQKBzE7G",
+      "parts": 86,
+      "pages": 204,
+      "file": "Game-Theory-101-final.pdf",
+      "bytes": 5863164,
+      "sha256": "2f9ff87258ff6e182739a0cb1b61fca8b6429328000f0a5215e9fca88de63b21",
+      "download_url": "https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/Game-Theory-101-final.pdf"
+    },
+    {
+      "id": "philosophy-of-economics",
+      "title": "苏黎世大学 2022 经济哲学",
+      "source_url": "https://www.bilibili.com/video/BV1vCUgBCEUx",
+      "parts": 40,
+      "pages": 316,
+      "file": "Philosophy-of-Economics-2022-final.pdf",
+      "bytes": 42456881,
+      "sha256": "38622f19efa188cd63c9cacc3bb9ab7facefed74eca3257f843a06e09a5f1656",
+      "download_url": "https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/Philosophy-of-Economics-2022-final.pdf"
+    }
+  ]
+}
