@@ -5,3 +5,4 @@ ef08564112188c6d96b2290585e0c5c2476ce27874c1b1dee3994f9a93445387  MIT-6006-2011-
 8e044d4aa000b6fc59a55507a51a3aaee5eebf012dedf897548a89212def1c37  Crash-Course-Philosophy-final.pdf
 2f9ff87258ff6e182739a0cb1b61fca8b6429328000f0a5215e9fca88de63b21  Game-Theory-101-final.pdf
 38622f19efa188cd63c9cacc3bb9ab7facefed74eca3257f843a06e09a5f1656  Philosophy-of-Economics-2022-final.pdf
+e9b7d61e69835f0d57938f91959f691003401d11e6c197fbf10193cc545305ae  AI-Deep-Learning-Specialization-final.pdf

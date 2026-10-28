@@ -1,8 +1,8 @@
 # Learning
 
-七门已完成课程的中文学习讲义与摘要，涵盖深度学习、计算机视觉、算法、批判性思维、哲学、博弈论和经济哲学。
+八门已完成课程的中文学习讲义与摘要，涵盖深度学习、计算机视觉、算法、批判性思维、哲学、博弈论和经济哲学。
 
-仓库保存课程摘要、来源链接和文件校验清单；最终合订本保存在 [Releases](https://github.com/xianDE1234561/Learning/releases/tag/v2026.10.25)，便于单独下载。此版本不含转写过程、原始视频与音轨、字幕、模型、临时缓存或历史草稿。
+仓库保存课程摘要、来源链接和文件校验清单；最终合订本保存在 [Releases](https://github.com/xianDE1234561/Learning/releases)，便于单独下载。此版本不含转写过程、原始视频与音轨、字幕、模型、临时缓存或历史草稿。
 
 ## 课程目录
 
@@ -15,10 +15,17 @@
 | [Crash Course 哲学](crash-course-philosophy.md) | 47 | 259 | [下载](https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/Crash-Course-Philosophy-final.pdf) |
 | [William Spaniel Game Theory 101 博弈论](game-theory-101.md) | 86 | 204 | [下载](https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/Game-Theory-101-final.pdf) |
 | [苏黎世大学 2022 经济哲学](philosophy-of-economics.md) | 40 | 316 | [下载](https://github.com/xianDE1234561/Learning/releases/download/v2026.10.25/Philosophy-of-Economics-2022-final.pdf) |
+| [深度学习专项五部分](ai-deep-learning-specialization.md) | 184 | 641 | [下载](https://github.com/xianDE1234561/Learning/releases/download/v2026.10.28/AI-Deep-Learning-Specialization-final.pdf) |
 
 MIT 6.006 的 47 个单元包含 24 节 Lecture 与 23 节 Recitation；Crash Course 的 47 个分 P 包含 1 个预览与 46 节正式课程。其他课程保留对应合集的分 P 范围。
 
-本版共 2,378 页。提示工程与 AI 深度专项仍在制作中，未纳入本次发布。
+本版八门课程合订本共 3,019 页。2026-10-28 新增 AI 深度学习专项五部分完整讲义：184 个源片段、641 页合订本。提示工程未纳入本次发布。
+
+## 本次新增：AI 深度学习专项
+
+[2026-10-28 Release](https://github.com/xianDE1234561/Learning/releases/tag/v2026.10.28) 提供 [641 页最终合订本](https://github.com/xianDE1234561/Learning/releases/download/v2026.10.28/AI-Deep-Learning-Specialization-final.pdf)。五部分来源、内容摘要和版本范围见 [课程摘要](ai-deep-learning-specialization.md)。
+
+先前七门课程的附件继续保存在 [2026-10-25 Release](https://github.com/xianDE1234561/Learning/releases/tag/v2026.10.25)。
 
 ## 下载与校验
 
@@ -32,4 +39,4 @@ MIT 6.006 的 47 个单元包含 24 节 Lecture 与 23 节 Recitation；Crash Co
 
 课程、视频、幻灯片、原文摘引及图像的权利属于各权利人。本仓库未对第三方材料授予统一开源许可；引用或再使用时请核对具体来源及其许可。
 
-发布版本：2026-10-25。
+索引更新：2026-10-28。
